@@ -36,4 +36,22 @@ layout: page
   </div>
 </div>
 
-I heard you like *mudkips*
+Some sort of text that goes across the whole page, since it is not in a row.
+Even more text, which because this is markdown, is treated as text in a text
+document, not taking into account the new lines.
+
+----
+
+<div class="row">
+{% for page in site.pages %}
+  {% if page.group == "frontpage" %}
+  <div class="span4">
+    <h3>{{ page.title }}</h3>
+    {{ page.exerpt | markdownify}}
+    <p>
+      <a class="btn btn-info btn-mini pull-right" href="{{page.url}}">See more</a>
+    </p>
+  </div>
+  {% endif %}
+{% endfor %}
+</div>
