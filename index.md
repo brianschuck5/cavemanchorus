@@ -18,7 +18,7 @@ layout: page
     <div class="row-fluid" style="padding-left: 1em">
       <div class="span8">
         <div class="framecontainer">
-          <img src="http://www.cavemanchorus.org/images/chorus2011z.jpg" class="framed" />
+          <img src="http://www.cavemanchorus.org/images/american2.jpg" class="framed" />
         </div>
       </div>
       <div class="span4">
