@@ -17,6 +17,7 @@ h1,h2,h3 {
 }
 .brand {
 	font-family: 'Racing Sans One', cursive;
+	text-shadow: 2px 2px 2px #eee;
 }
 /* The white background content wrapper */
 .content {
