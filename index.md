@@ -51,7 +51,7 @@ document, not taking into account the new lines.
     <h3>{{ page.title }}</h3>
 
     <section>
-      {{ page.exerpt | markdownify}}
+      {{ page.exerpt | liquidify | markdownify}}
     </section>
     <p>
       <a class="btn btn-info btn-mini pull-right" href="{{page.url}}" title="{{page.title}}">See more</a>

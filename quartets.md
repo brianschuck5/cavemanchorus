@@ -16,7 +16,7 @@ quartets:
 exerpt: |
     ## Come see our *Quartets*!
 
-    <iframe width="300" height="169" src="http://www.youtube.com/embed/coa-dU6RPPM" frameborder="0">.</iframe>
+    {%youtube coa-dU6RPPM 300 169 %}
 
 secondgroup: frontpage
 ---
@@ -38,7 +38,7 @@ secondgroup: frontpage
 {% endfor %}
 </div>
 
-<iframe width="800" height="450" src="http://www.youtube.com/embed/coa-dU6RPPM" frameborder="0" >.</iframe>
+{%youtube coa-dU6RPPM 940 480 %}
 
 <style>
 	.tile .text {
