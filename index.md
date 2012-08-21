@@ -23,11 +23,13 @@ layout: page
       </div>
       <div class="span4">
 {% capture temp_markdown %}
-# We love to sing!
-## This section
-* is in markdown
-
-*for convenience*
+<h2 style="font-family:verdana;color:#gggggg;font-family: 'Racing Sans One', cursive;font-size:30px;">We Love To Sing!</h2>
+ <p></p>
+<h3> <i> The Caveman Chorus is dedicated to performing Acapella music in the Barbershop tradition.</i></h3>
+<p></p>
+### *We love to share our brand of music with the community.*
+<p></p>
+*We hope you enjoy our site*
 
 {% endcapture %}
 {{ temp_markdown | markdownify }}{% assign temp_markdown = nil %}
@@ -36,22 +38,3 @@ layout: page
   </div>
 </div>
 
-Some sort of text that goes across the whole page, since it is not in a row.
-Even more text, which because this is markdown, is treated as text in a text
-document, not taking into account the new lines.
-
-----
-
-<div class="row">
-{% for page in site.pages %}
-  {% if page.group == "frontpage" %}
-  <div class="span4">
-    <h3>{{ page.title }}</h3>
-    {{ page.exerpt | markdownify}}
-    <p>
-      <a class="btn btn-info btn-mini pull-right" href="{{page.url}}">See more</a>
-    </p>
-  </div>
-  {% endif %}
-{% endfor %}
-</div>

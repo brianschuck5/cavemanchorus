@@ -1,7 +1,11 @@
 /* Override some defaults */
 html, body {
-  background-color: #eee;
+  background-color: #9DDCF9;
 }
+h1,h2,h3 {
+	color:#2B3C90;
+}
+
 .navbar {
   margin-bottom: 0;
 }
@@ -11,10 +15,12 @@ html, body {
 .container > footer p {
   text-align: center; /* center align it with the container */
 }
-
+.brand {
+	font-family: 'Racing Sans One', cursive;
+}
 /* The white background content wrapper */
 .content {
-  background-color: #fff;
+  background-color: #FFF7E0;
   padding: 20px;
   margin: 0 -20px; /* negative indent the amount of the padding to maintain the grid system */
   -webkit-border-radius: 0 0 6px 6px;
@@ -27,7 +33,7 @@ html, body {
 
 /* Page header tweaks */
 .page-header {
-  background-color: #f5f5f5;
+  background-color: #000;
   padding: 20px 20px 10px;
   margin: -20px -20px 20px;
 }
@@ -35,7 +41,9 @@ html, body {
 .topbar .btn {
   border: 0;
 }
-
+a {
+color: #2B3C90;
+}
 
 /* tag_box ======================================================== */
 
@@ -87,7 +95,7 @@ html, body {
 	display: block;
 }
 .c-navbar .brand {
-	font-size: 30px;
+	font-size: 60px;
 }
 .c-navbar {
 	padding-top: 2em;
