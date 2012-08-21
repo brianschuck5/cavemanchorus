@@ -24,6 +24,7 @@ layout: page
       <div class="span4">
 {% capture temp_markdown %}
 <h2 style="font-family:verdana;color:#gggggg;font-family: 'Racing Sans One', cursive;font-size:30px;">We Love To Sing!</h2>
+ -----
  <p></p>
 <h3> <i> The Caveman Chorus is dedicated to performing Acapella music in the Barbershop tradition.</i></h3>
 <p></p>
@@ -37,7 +38,6 @@ layout: page
     </div>
   </div>
 </div>
-
 Some sort of text that goes across the whole page, since it is not in a row.
 Even more text, which because this is markdown, is treated as text in a text
 document, not taking into account the new lines.
