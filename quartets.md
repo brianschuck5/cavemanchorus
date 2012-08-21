@@ -13,6 +13,12 @@ quartets:
       url: "http://www.cavemanchorus.org/pnp"
     - name: pickles and gravy
       img: http://www.cavemanchorus.org/images/Quartets/pnpthumb.jpg
+exerpt: |
+    ## Come see our *Quartets*!
+
+    <iframe width="300" height="169" src="http://www.youtube.com/embed/coa-dU6RPPM" frameborder="0">.</iframe>
+
+secondgroup: frontpage
 ---
 {% include JB/setup %}
 <div class="tiled quartets row">
@@ -31,6 +37,8 @@ quartets:
   </div>
 {% endfor %}
 </div>
+
+<iframe width="800" height="450" src="http://www.youtube.com/embed/coa-dU6RPPM" frameborder="0" >.</iframe>
 
 <style>
 	.tile .text {

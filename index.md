@@ -46,12 +46,15 @@ document, not taking into account the new lines.
 
 <div class="row">
 {% for page in site.pages %}
-  {% if page.group == "frontpage" %}
+  {% if page.group == "frontpage" or page.secondgroup == "frontpage" %}
   <div class="span4">
     <h3>{{ page.title }}</h3>
-    {{ page.exerpt | markdownify}}
+
+    <section>
+      {{ page.exerpt | markdownify}}
+    </section>
     <p>
-      <a class="btn btn-info btn-mini pull-right" href="{{page.url}}">See more</a>
+      <a class="btn btn-info btn-mini pull-right" href="{{page.url}}" title="{{page.title}}">See more</a>
     </p>
   </div>
   {% endif %}
