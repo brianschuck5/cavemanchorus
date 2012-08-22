@@ -8,12 +8,10 @@ pictures:
       name: Super Special Title
       colsize: 3
       pictures:
-        - img: http://blog.stackoverflow.com/wp-content/uploads/fake-mod-tools2.png
-        - img: http://i.imgur.com/IMvPX.jpg
-        - img: http://i.imgur.com/KazHi.jpg
-        - img: http://i.imgur.com/61wsF.jpg
           url: http://en.wikipedia.org/wiki/Wikipedia:WikiCat
-        - img: http://i.imgur.com/KBNue.jpg
+        - img: http://cavemanchorus.org/images/american2.jpg
+        - img: http://cavemanchorus.org/chorusfront.gif
+        - img: http://cavemanchorus.org/images/chorus2011z.jpg
       description: |
         I rather like onions
         and beans.
@@ -30,9 +28,6 @@ pictures:
       name: I like crinkles
       colsize: 4
       pictures:
-        - img: http://i.imgur.com/mXL5I.png
-        - img: http://i.imgur.com/97MOc.gif
-        - img: http://i.imgur.com/O3yPW.jpg
 ---
 #Photos here!
 

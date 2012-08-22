@@ -28,7 +28,8 @@ layout: page
  <p></p>
 <h3> <i> The Caveman Chorus is dedicated to performing Acapella music in the Barbershop tradition.</i></h3>
 <p></p>
-### *We love to share our brand of music with the community.*
+<p></p>
+### *We love to share our unique type of music with the community.*
 <p></p>
 *We hope you enjoy our site*
 
@@ -38,9 +39,8 @@ layout: page
     </div>
   </div>
 </div>
-Some sort of text that goes across the whole page, since it is not in a row.
-Even more text, which because this is markdown, is treated as text in a text
-document, not taking into account the new lines.
+
+----
 
 ----
 
@@ -60,3 +60,6 @@ document, not taking into account the new lines.
   {% endif %}
 {% endfor %}
 </div>
+
+----
+Fat footer goes down here - does this add?
