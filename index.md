@@ -42,7 +42,7 @@ layout: page
 
 ---
 
-<img src="http://www.cavemanchorus.org/images/tempnotice2012.jpg" class="framed" />
+<img src="http://www.cavemanchorus.org/images/tempnotice2012.jpg" class="framed"/>
 
 ---
 
