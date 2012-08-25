@@ -101,7 +101,10 @@ color: #2B3C90;
 .c-navbar {
 	padding-top: 2em;
 }
-
+.c-nav-side {
+	font-size: 24px;
+	line-height: 200%;
+}
 img.framed {
 	border-width: 0.5em;
 	border-color: white;
