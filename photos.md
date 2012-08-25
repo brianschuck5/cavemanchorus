@@ -8,7 +8,6 @@ pictures:
       name: Super Special Title
       colsize: 3
       pictures:
-          url: http://en.wikipedia.org/wiki/Wikipedia:WikiCat
         - img: http://cavemanchorus.org/images/american2.jpg
         - img: http://cavemanchorus.org/chorusfront.gif
         - img: http://cavemanchorus.org/images/chorus2011z.jpg

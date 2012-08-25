@@ -40,9 +40,11 @@ layout: page
   </div>
 </div>
 
-----
+---
 
-----
+<img src="http://www.cavemanchorus.org/images/tempnotice2012.jpg" class="framed" />
+
+---
 
 <div class="row">
 {% for page in site.pages %}
@@ -51,7 +53,9 @@ layout: page
     <h3>{{ page.title }}</h3>
 
     <section>
-      {{ page.exerpt | liquidify | markdownify}}
+      <div class="framed">
+      {{ page.excerpt | liquidify | markdownify}}
+      </div>
     </section>
     <p>
       <a class="btn btn-info btn-mini pull-right" href="{{page.url}}" title="{{page.title}}">See more</a>
@@ -62,4 +66,8 @@ layout: page
 </div>
 
 ----
-Fat footer goes down here - does this add?
+Fat footer goes down here
+
+Links to BHS and Cardinal District
+
+Sponsors

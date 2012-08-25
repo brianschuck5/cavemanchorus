@@ -6,7 +6,7 @@ group: navigation
 ---
 {% include JB/setup %}
 
-###If you love to sing, come and join us at one of our weekly practices.  We love to have guests!  There is no better way to improve your singning and associate with a fine group of individuals committed to singing excellence.
+###If you love to sing, come and join us at one of our weekly practices.  We love to have guests!  There is no better way to improve your singing and associate with a fine group of individuals committed to singing excellence.
 <p></p>
 ###If you find that you enjoy your visits with us, we would welcome you into our chorus.
 <p></p>

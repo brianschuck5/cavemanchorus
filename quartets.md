@@ -11,12 +11,11 @@ quartets:
     - name: "Past 'n' Present"
       img: "http://www.cavemanchorus.org/images/Quartets/pnpthumb.jpg"
       url: "http://www.cavemanchorus.org/pnp"
-    - name: pickles and gravy
-      img: http://www.cavemanchorus.org/images/Quartets/pnpthumb.jpg
-exerpt: |
+    
+excerpt: |
     ## Come see our *Quartets*!
 
-    {%youtube coa-dU6RPPM 300 169 %}
+    {%youtube zDX9uiL8exY 300 169 %}
 
 secondgroup: frontpage
 ---
@@ -38,7 +37,7 @@ secondgroup: frontpage
 {% endfor %}
 </div>
 
-{%youtube coa-dU6RPPM 940 480 %}
+{%youtube zDX9uiL8exY 940 480 %}
 
 <style>
 	.tile .text {

@@ -1,7 +1,8 @@
 /* Override some defaults */
 html, body {
   background-color: #9DDCF9;
-}
+  background-image: url('http://www.cavemanchorus.org/images/Backtexture.png');
+}  
 h1,h2,h3 {
 	color:#2B3C90;
 }
@@ -111,3 +112,4 @@ img.framed {
 .banner-section {
 	box-shadow: -10px 0px 5px -4px rgba(0, 0, 0, 0.1);
 }
+
