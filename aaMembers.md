@@ -26,16 +26,17 @@ group: navigation
 {% capture temp_markdown %}
 
 ##Important information
-###this is the test to see how wid this thing goes.
-
+####This is where important information is displayed, like what time to meet, when to have songs memorized etc.
 ---
 
 ##Documents
-
+####This is where documents go, how to download stuff, chapter bylaws, tutorials
 ---
 
 ##Media
  <p></p>
+####This is where video and audio tutorials go
+
 
 {% endcapture %}
 {{ temp_markdown | markdownify }}{% assign temp_markdown = nil %}
