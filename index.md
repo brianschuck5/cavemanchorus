@@ -66,8 +66,27 @@ layout: page
 </div>
 
 ----
-Fat footer goes down here
+<div>
+  <div class="span4 footer-left">
+    left side
+    <p></p>
+    let side 2
+    <p></p>
+    left side 3
+  </div>
+  <div class="span4 footer-middle">
+    middle 
+    <p></p>
+    middle side 2
+    <p></p>
+    middle side 3
+  </div>
+  <div class="span3 footer-right">
+    right
+    <p></p>
+    right side 2
+    <p></p>
+    right side 3
+  </div>
+</div>
 
-Links to BHS and Cardinal District
-
-Sponsors

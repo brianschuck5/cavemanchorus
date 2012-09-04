@@ -104,6 +104,8 @@ color: #2B3C90;
 }
 .c-nav-side {
 	font-size: 20px;
+	line-height: 30px;
+	margin-bottom: 10px;
 }
 img.framed {
 	border-width: 0.5em;
@@ -113,6 +115,15 @@ img.framed {
 	max-width: 95%;
 }
 .banner-section {
-	box-shadow: -10px 0px 5px -4px rgba(0, 0, 0, 0.1);
+	border-left: thick #cdb1ab;
+	box-shadow: -10px 0px 5px -4px rgba(256, 256, 256,1);
 }
-
+.footer-left {
+	border-right: 1px dashed #9c9c94;
+}
+.footer-middle {
+	border-right: 1px dashed #9c9c94;
+}
+.footer-right {
+	
+}
