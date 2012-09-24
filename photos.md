@@ -12,20 +12,9 @@ pictures:
         - img: http://cavemanchorus.org/chorusfront.gif
         - img: http://cavemanchorus.org/images/chorus2011z.jpg
       description: |
-        I rather like onions
-        and beans.
-        * Tacos
-        * Cheese
-
-        and other things.
-        Like.. 
-        1. Breadsticks
-        2. Onionbreadsticks
-        3. Cheesesticks
-
+        
     - album:
-      name: I like crinkles
-      colsize: 4
+      
       pictures:
 ---
 #Photos here!

@@ -6,7 +6,7 @@ group: frontpage
 excerpt: |
     
 
-    ![](http://cavemanchorus.org/images/blotchtest.jpg)
+    ![](http://cavemanchorus.org/vocal_union.jpg)
 
 ---
 {% include JB/setup %}

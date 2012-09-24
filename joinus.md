@@ -26,3 +26,6 @@ Videos on what to expect from a visit go here
 
 Useful links on singing go here
 
+[Wikipedia](http://www.wikipedia.org)
+
+"Link to Wikipedia":http://www.wikipedia.org

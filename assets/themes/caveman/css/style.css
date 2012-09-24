@@ -115,14 +115,14 @@ img.framed {
 	max-width: 95%;
 }
 .banner-section {
-	border-left: thick #cdb1ab;
-	box-shadow: -10px 0px 5px -4px rgba(256, 256, 256,1);
+	box-shadow: -7px 0px 5px -4px rgba(256, 256, 256,1);
+
 }
 .footer-left {
-	border-right: 1px dashed #9c9c94;
+	border-right: 1px dotted #9c9c94;
 }
 .footer-middle {
-	border-right: 1px dashed #9c9c94;
+	border-right: 1px dotted #9c9c94;
 }
 .footer-right {
 	
