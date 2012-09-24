@@ -69,7 +69,7 @@ layout: page
 <div>
   <div class="span4 footer-left">
     <a href="http://barbershop.org"> 
-      <img src="http://www.cavemanchorus.org/BHSlogo.gif" />
+      <img src="http://www.cavemanchorus.org/BHSlogo.gif" class="framed"/>
     </a>
     <p></p>
     <p></p>
@@ -77,24 +77,32 @@ layout: page
       <img src="http://www.cavemanchorus.org/cardinallogo.gif" class="framed"/>
     </a>
     <p></p>
-    let side 2
+  
     <p></p>
-    left side 3
+   
   </div>
   <div class="span4 footer-middle">
     
     <p></p>
     <a href="https://www.facebook.com/pages/The-Caveman-Barbershop-Chorus/146069575443365?ref=ts">
-       <img src="http://www.cavemanchorus.org/images/FBicon-150x150.jpg"/>
+       <img src="http://www.cavemanchorus.org/images/facebook_visitus.jpg" class="framed"/>
     <p></p>      
-        Facebook
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>   
     </a>
-
+    <p></p>
+    <p></p>
     <p></p>
     <p></p>
   </div>
   <div class="span3 footer-right">
     right
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
     <p></p>
     <p></p>
     <p></p>
