@@ -20,6 +20,7 @@ layout: page
         <div class="framecontainer">
           <img src="http://www.cavemanchorus.org/images/american2.jpg" class="framed" />
         </div>
+		
       </div>
       <div class="span4">
 {% capture temp_markdown %}
@@ -42,7 +43,7 @@ layout: page
 
 ---
 
-<img src="http://www.cavemanchorus.org/images/tempnotice2012.jpg" class="framed"/>
+<img src="http://www.cavemanchorus.org/images/Christmas_Concert_Banner.jpg" class="framed"/>
 
 ---
 
@@ -98,7 +99,6 @@ layout: page
     <p></p>
   </div>
   <div class="span3 footer-right">
-    right
     <p></p>
     <p></p>
     <p></p>
