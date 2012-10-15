@@ -74,9 +74,7 @@ layout: page
     </a>
     <p></p>
     <p></p>
-    <a href="http://www.cardinaldistrict.org">
-      <img src="http://www.cavemanchorus.org/cardinallogo.gif" class="framed"/>
-    </a>
+    
     <p></p>
   
     <p></p>
@@ -87,18 +85,17 @@ layout: page
     <p></p>
     <a href="https://www.facebook.com/pages/The-Caveman-Barbershop-Chorus/146069575443365?ref=ts">
        <img src="http://www.cavemanchorus.org/images/facebook_visitus.jpg" class="framed"/>
-    <p></p>      
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>   
+    
+     
     </a>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
+    <br /><br />
+    <br /><br />
+    
   </div>
   <div class="span3 footer-right">
+    <a href="http://www.cardinaldistrict.org">
+      <img src="http://www.cavemanchorus.org/cardinallogo.gif" class="framed"/>
+    </a>
     <p></p>
     <p></p>
     <p></p>

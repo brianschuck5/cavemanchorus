@@ -17,7 +17,7 @@ excerpt: |
 
     {%youtube zDX9uiL8exY 300 169 %}
 
-secondgroup: frontpage
+secondgroup: frontpage1
 ---
 {% include JB/setup %}
 <div class="tiled quartets row">
@@ -37,7 +37,7 @@ secondgroup: frontpage
 {% endfor %}
 </div>
 
-{%youtube zDX9uiL8exY 940 480 %}
+{%youtube zDX9uiL8exY 470 240 %}
 
 <style>
 	.tile .text {

@@ -2,7 +2,7 @@
 layout: page
 title: "An Activity"
 description: ""
-group: frontpage
+group: frontpage1
 excerpt: |
     
 

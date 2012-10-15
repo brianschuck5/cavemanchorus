@@ -7,7 +7,12 @@ group: navigation
 {% include JB/setup %}
 
 ##Chorus Goals
-###Just stuff about goals
+####Vision - Be recognized as a growing and vital singing fraternity in our community and district.
+<p></p>
+####Mission - Build and expand upon the Caveman Tradition:  More quality and more fun.
+<p></p>
+
+### [_Click here for detailed goals and objectives_](/goals.html)
 ---
 ##Chorus History
 ####The formation of what eventually became the Mammoth Cave Chapter began in the spring of 1971 at a meeting in Glasgow, Kentucky called by Society Field Representative, Chet Fox. The 12 men at the meeting elected Marvin Nicholson president of what was proposed to be the Glasgow-Barren County Chapter. Nicholson had previous barbershop experience as a member of the old Versailles, Kentucky Chapter.
@@ -25,42 +30,67 @@ group: navigation
 ####The Barbershop Harmony Society has a membership of 30,000 men in the United States and Canada whose focus is on a cappella music.
 ####Purpose
 
-1. Perpetuates and celebrates harmony in the barbershop style
-2. Promotes fellowship and friendship among men of good will
-3. Provides the opportunity to experience the joy of four-part a cappella singing
-4. Introduces and sustains music in the lives of people everywhere
+Perpetuates and celebrates harmony in the barbershop style
+
+Promotes fellowship and friendship among men of good will
+
+Provides the opportunity to experience the joy of four-part a cappella singing
+
+Introduces and sustains music in the lives of people everywhere
 
 ####Values
 
-1. The joy of singing and ringing chords in four-part barbershop harmony
-2. Fellowship and friendship
-3. Service to others through our music
+The joy of singing and ringing chords in four-part barbershop harmony
+
+Fellowship and friendship
+
+Service to others through our music
 
 ### [_Barbershop Harmony Society_](barbershop.org)
-![](http://www.barbershop.org/templates/mocha/images/logos/bhs_logo.png)
+
+<img src="http://www.cavemanchorus.org/images/BHS_logo_412x68.jpg" class="framed" />
+
 
 ---
-##Message from the Director
-####We’re glad to have you here at the Caveman Chorus’ web site.  We’re very proud of it.  Whether you’re a prospective barbershop chorus singer, a current or former “Caveman”, or simply one who is interested in learning more about barbershop harmony, you should find the site interesting and informative.
 
-<p></p>
 
-####I’m Greg Hollander, musical director and long-time Caveman Chorus member.  I began singing with the Mammoth Cave Chapter of the Barbershop Harmony Society in 1983.  Through the years, the Caveman Chorus has provided an opportunity for me to enjoy a wonderful hobby, and has taught me many things.  I’ve learned how to become a better singer and how vocal harmony can sharpen a person’s skills and instincts as a musician.  The group has given me a chance to develop my skills as an arranger and performer, both in quartet and chorus situations.  It has been a great creative outlet.  I’ve also learned that the guys in the Caveman Chorus are some of the most outstanding members and contributors of their respective communities.  They’ve become my best friends over the years and I value all of these friendships tremendously.
-
-<p></p>
-
-####But one of the things that has made me most proud of my years of dedication to the chorus is that I’m now the older half of a two-generation duo within our ranks.  My son Erick, is one of the newer members of the chorus and I’m hoping that barbershop music will become a life-long source of enjoyment for him, as it has been for me.  
-
-<p></p>
-
-####Please let us know if you’ve enjoyed visiting us here in the Caveland cyber-world.  Stop by and visit us in Bowling Green if you ever have the chance.  We’d love to share our hobby with you. 
-
-<p></p>
-
-####Greg Hollander
-![](http://www.cavemanchorus.org/director.jpg)
----
-##Message from the President
-###stuff
----
+<div>
+  <div class="span4 footer-left">
+    <a href="http://barbershop.org"> 
+      <img src="http://www.cavemanchorus.org/BHSlogo.gif" class="framed"/>
+    </a>
+    <p></p>
+    <p></p>
+    
+    <p></p>
+  
+    <p></p>
+   
+  </div>
+  <div class="span4 footer-middle">
+    
+    <p></p>
+    <a href="https://www.facebook.com/pages/The-Caveman-Barbershop-Chorus/146069575443365?ref=ts">
+       <img src="http://www.cavemanchorus.org/images/facebook_visitus.jpg" class="framed"/>
+    
+     
+    </a>
+    <br /><br />
+    <br /><br />
+    
+  </div>
+  <div class="span3 footer-right">
+    <a href="http://www.cardinaldistrict.org">
+      <img src="http://www.cavemanchorus.org/cardinallogo.gif" class="framed"/>
+    </a>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+  </div>
+</div>
 

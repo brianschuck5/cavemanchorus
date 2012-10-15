@@ -7,11 +7,14 @@ group: navigation
 {% include JB/setup %}
 
 
+
+
+
 <div class="row">
   <div class="span2">
     <ul class="c-nav-side">
       {% assign pages_list = site.pages %}
-      {% assign group = 'membersidenav' %}
+      {% assign group = 'membersidenavremovethis' %}
       {% include JB/pages_list %}
     </ul>
   </div>
@@ -25,17 +28,18 @@ group: navigation
       <div class="span10">
 {% capture temp_markdown %}
 
-##Important information
-####This is where important information is displayed, like what time to meet, when to have songs memorized etc.
----
 
-##Documents
-####This is where documents go, how to download stuff, chapter bylaws, tutorials
----
+##This page is for Chorus Members only 
+##and contains private information
 
-##Media
- <p></p>
-####This is where video and audio tutorials go
+<br></br>
+<br></br>
+
+<a href="http://cavemanchorus.org/members/members1.htm"> 
+      <img src="http://www.cavemanchorus.org/images/passwordlock.jpg" class="framed"/>
+    </a>
+
+## [_Click here to enter_](/members/members1.htm)
 
 
 {% endcapture %}
@@ -44,5 +48,53 @@ group: navigation
     </div>
   </div>
 </div>
+
+
+---
+
+<br></br>
+<br></br>
+<br></br>
+<div>
+  <div class="span4 footer-left">
+    <a href="http://barbershop.org"> 
+      <img src="http://www.cavemanchorus.org/BHSlogo.gif" class="framed"/>
+    </a>
+    <p></p>
+    <p></p>
+    
+    <p></p>
+  
+    <p></p>
+   
+  </div>
+  <div class="span4 footer-middle">
+    
+    <p></p>
+    <a href="https://www.facebook.com/pages/The-Caveman-Barbershop-Chorus/146069575443365?ref=ts">
+       <img src="http://www.cavemanchorus.org/images/facebook_visitus.jpg" class="framed"/>
+    
+     
+    </a>
+    <br /><br />
+    <br /><br />
+    
+  </div>
+  <div class="span3 footer-right">
+    <a href="http://www.cardinaldistrict.org">
+      <img src="http://www.cavemanchorus.org/cardinallogo.gif" class="framed"/>
+    </a>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+  </div>
+</div>
+
+
 
 

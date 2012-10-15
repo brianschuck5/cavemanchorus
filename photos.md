@@ -5,12 +5,11 @@ header: Photos
 group: sidenav
 pictures:
     - album:
-      name: Super Special Title
+      name: Pictures from several different performances
       colsize: 3
       pictures:
         - img: http://cavemanchorus.org/images/american2.jpg
         - img: http://cavemanchorus.org/chorusfront.gif
-        - img: http://cavemanchorus.org/images/chorus2011z.jpg
         - img: http://cavemanchorus.org/photoalbum1_files/horsecave_01.JPG
         - img: http://cavemanchorus.org/photoalbum1_files/horsecave_02.JPG
         - img: http://cavemanchorus.org/photoalbum1_files/horsecave_03.JPG
@@ -23,14 +22,17 @@ pictures:
         - img: http://cavemanchorus.org/photoalbum1_files/horsecave_10.JPG
         - img: http://cavemanchorus.org/photoalbum1_files/horsecave_11.JPG
         - img: http://cavemanchorus.org/photoalbum1_files/horsecave_12.JPG
+        - img: http://cavemanchorus.org/images/chorus2011z.jpg
       description: |
         
     - album:
       
       pictures:
----
+
+
 #Photos here!
 
+---
 
 {% for album in page.pictures %}
 ## {{album.name}}

@@ -20,12 +20,55 @@ group: navigation
 ![](http://www.cavemanchorus.org/BandNmap.gif)
 
 ---
-Videos on what to expect from a visit go here
+Future Videos on what to expect from a visit go here
 
 ---
 
-Useful links on singing go here
+Future Useful links on singing go here
 
-[Wikipedia](http://www.wikipedia.org)
+---
 
-"Link to Wikipedia":http://www.wikipedia.org
+<br></br>
+<br></br>
+<br></br>
+<div>
+  <div class="span4 footer-left">
+    <a href="http://barbershop.org"> 
+      <img src="http://www.cavemanchorus.org/BHSlogo.gif" class="framed"/>
+    </a>
+    <p></p>
+    <p></p>
+    
+    <p></p>
+  
+    <p></p>
+   
+  </div>
+  <div class="span4 footer-middle">
+    
+    <p></p>
+    <a href="https://www.facebook.com/pages/The-Caveman-Barbershop-Chorus/146069575443365?ref=ts">
+       <img src="http://www.cavemanchorus.org/images/facebook_visitus.jpg" class="framed"/>
+    
+     
+    </a>
+    <br /><br />
+    <br /><br />
+    
+  </div>
+  <div class="span3 footer-right">
+    <a href="http://www.cardinaldistrict.org">
+      <img src="http://www.cavemanchorus.org/cardinallogo.gif" class="framed"/>
+    </a>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+  </div>
+</div>
+
+
