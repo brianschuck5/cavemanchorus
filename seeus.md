@@ -6,7 +6,7 @@ group: navigation
 ---
 {% include JB/setup %}
 
----
+
 
 <table border="1" 
 cellpadding="10">
@@ -16,11 +16,7 @@ cellpadding="10">
   <th>Where</th>
   <th>When</th>
 </tr>
-<tr>
-  <td><a href="#WKU">Homecoming at WKU</a></td>
-  <td>WKU football field - Homecoming Game</td>
-  <td>Oct. 20, 2012   -    3:00 PM</td>
-</tr>
+
 <tr>
   <td>Christmas in the Cave</td>
   <td>Mammoth Cave</td>
@@ -32,6 +28,8 @@ cellpadding="10">
   <td>Dec 15, 2012</td>
 </tr>
 </table>
+<br></br>
+
 
 # see below for more details
 
@@ -61,36 +59,31 @@ cellpadding="10">
 </div>
 
 
-<br /><br />
-<br /><br />
-<br /><br />
-<br /><br />
-<br /><br />
-<br /><br />
-<br /><br />
-<br /><br />
-<br /><br />
-<br /><br />
-<br /><br />
-<br /><br />
-<br /><br />
-<br /><br />
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
 <hr>
-<div class="span4">
-<a id="WKU"></a>
-<img src="http://www.wkusports.com/fls/5400/countdowns/countdown-louisianna-Monroe.jpg" class="framed"/>
-</div>
-<div class="span7">
-<img src="http://www.cavemanchorus.org/images/WKU_homecoming_600x100.jpg" class="framed"/>
-</div>
-<br /><br />
-<br /><br />
-<br /><br />
-<br /><br />
-<br /><br />
-<br /><br />
-<br /><br />
-<br /><br />
+
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+
 ----
 
 <div>
@@ -111,11 +104,11 @@ cellpadding="10">
     <p></p>
     <a href="https://www.facebook.com/pages/The-Caveman-Barbershop-Chorus/146069575443365?ref=ts">
        <img src="http://www.cavemanchorus.org/images/facebook_visitus.jpg" class="framed"/>
-    
      
     </a>
-    <br /><br />
-    <br /><br />
+    
+    <br></br>
+    <br></br>
     
   </div>
   <div class="span3 footer-right">

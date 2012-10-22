@@ -8,21 +8,21 @@ pictures:
       name: Pictures from several different performances
       colsize: 3
       pictures:
-        - img: http://cavemanchorus.org/images/american2.jpg
-        - img: http://cavemanchorus.org/chorusfront.gif
-        - img: http://cavemanchorus.org/photoalbum1_files/horsecave_01.JPG
-        - img: http://cavemanchorus.org/photoalbum1_files/horsecave_02.JPG
-        - img: http://cavemanchorus.org/photoalbum1_files/horsecave_03.JPG
-        - img: http://cavemanchorus.org/photoalbum1_files/horsecave_04.JPG
-        - img: http://cavemanchorus.org/photoalbum1_files/horsecave_05.JPG
-        - img: http://cavemanchorus.org/photoalbum1_files/horsecave_06.JPG
-        - img: http://cavemanchorus.org/photoalbum1_files/horsecave_07.JPG
-        - img: http://cavemanchorus.org/photoalbum1_files/horsecave_08.JPG
-        - img: http://cavemanchorus.org/photoalbum1_files/horsecave_09.JPG
-        - img: http://cavemanchorus.org/photoalbum1_files/horsecave_10.JPG
-        - img: http://cavemanchorus.org/photoalbum1_files/horsecave_11.JPG
-        - img: http://cavemanchorus.org/photoalbum1_files/horsecave_12.JPG
-        - img: http://cavemanchorus.org/images/chorus2011z.jpg
+        - img: http://cavemanchorus.org/images/american2a.jpg
+        - img: http://cavemanchorus.org/chorusfronta.gif
+        - img: http://cavemanchorus.org/photoalbum1_files/horsecave_01a.JPG
+        - img: http://cavemanchorus.org/photoalbum1_files/horsecave_02a.JPG
+        - img: http://cavemanchorus.org/photoalbum1_files/horsecave_03a.JPG
+        - img: http://cavemanchorus.org/photoalbum1_files/horsecave_04a.JPG
+        - img: http://cavemanchorus.org/photoalbum1_files/horsecave_05a.JPG
+        - img: http://cavemanchorus.org/photoalbum1_files/horsecave_06a.JPG
+        - img: http://cavemanchorus.org/photoalbum1_files/horsecave_07a.JPG
+        - img: http://cavemanchorus.org/photoalbum1_files/horsecave_08a.JPG
+        - img: http://cavemanchorus.org/photoalbum1_files/horsecave_09a.JPG
+        - img: http://cavemanchorus.org/photoalbum1_files/horsecave_10a.JPG
+        - img: http://cavemanchorus.org/photoalbum1_files/horsecave_11a.JPG
+        - img: http://cavemanchorus.org/photoalbum1_files/horsecave_12a.JPG
+        - img: http://cavemanchorus.org/images/chorus2011za.jpg
       description: |
         
     - album:
